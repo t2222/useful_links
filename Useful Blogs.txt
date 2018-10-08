@@ -1,0 +1,32 @@
+
+great problems: https://vjudge.net/article/369
+
+https://github.com/be-oi/beoi-training/tree/master/09-fenwick-tree
+https://github.com/me-shaon/bangla-programming-resources/blob/master/README.md
+https://docs.google.com/document/d/1N-HCxxohiis4-pTGCCFXGVI07BMqnDS2sV8yXcParMQ/edit
+http://uvacode.blogspot.com/2011/05/hints-for-uva-problem-set-500.html
+http://www.shafaetsplanet.com/planetcoding/?page_id=2804
+https://www.redgreencode.com/how-to-attack-a-programming-puzzle/
+http://k2code.blogspot.in/2012/01/given-integer-array-and-number-x-find.html
+http://www.progkriya.org/gyan/stl.html
+http://forthright48.blogspot.com/p/cpps-101.html?m=1
+http://www.questtosolve.com/browse.php?vol=5
+http://uvaoj.blogspot.com/2012/01/674-coin-change.html
+https://rezwanarefin01.github.io/posts/fast-fourier-transform
+http://www.outsbook.com/uva/?page=problem_hints&category=116&id=11614
+http://codingdojang.com/scode/436
+http://uvasolutionseam.blogspot.com/2016/09/uva-11723-numbering-roads.html
+geeksforgeeks
+hackerearth
+codemonk
+
+asdf coding
+shipuahmed
+quickgrid
+
+http://mathworld.wolfram.com
+
+
+
+scanf ("%[^\n]%*c", a) ;
+printf("%s\n" , a) ;

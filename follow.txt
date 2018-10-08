@@ -1,0 +1,156 @@
+I am assuming you know at least one programming language 
+and the concept of object / pointers. 
+I will mention algorithms and data structures in increasing order of difficulty.
+
+First start with Linear data structures and algorithms.
+
+Arrays
+Linked List
+Stack
+Queues
+
+Then move to basic algorithms :
+
+Sorting - Merge Sort, Insertion Sort, Quick Sort, Number of inversions
+Matrix Multiplication (just know the algo if not implement it)
+Prime Sieving
+Modular Math including multiplication and division
+Euclidean Algorithm for GCD, Modular Inverse, Fast Exponentiation
+Fibonacci number with matrix multiplication
+Probability distribution and expected value
+Stats - Mean, Median, Variance, Bayes theorem
+
+Then one can learn some popular algorithmic techniques:
+
+Divide and Conquer - Binary Search, Maximum Subarray
+Greedy Algorithms - Activity Selection, Huffman encoding
+Dynamic Programming - Matrix Chain Multiplication, Knapsack,
+Linear Programming - Variable Maximisation, Linear time sorting
+String Algorithms - Manacher, LCS, Edit Distance
+
+Then comes some typical non-linear data structures:
+
+Trees - Binary Tree, General Tree, Lowest Common Ancestor
+Binary Search Tree - Inorder Traversal, Level order traversal, finding kth largest element, diameter, depth, number of nodes, etc.
+Heaps - Array Implementation, Heapify, Heap Sort
+Union Find
+Hash Table - Linear Probing, Open addressing, Collision avoidance
+
+Then you can learn about Graphs:
+
+Adjacency List, Adjacency Matrix, Weighted Edge Graphs
+Basic Traversal algos - Breadth First Search, Depth First Search, etc
+Shortest Path Finding Algorithm - Dijkstra, Floyd Warshal, Bellman Ford
+Minimum Spanning Tree - Kruskal's Algo, Prim's Algo
+
+By this time you are already pretty good with programming. You will do better than most of undergrad CS students. If you want to learn more and delve deep read more.
+
+Advance Tree and Graph :
+
+Balanced Trees - AVL, Red-Black
+Heavy Light Decomposition, B+ Trees, Quad Tree
+Advance Graph - Min Cut, Max Flow
+Maximum Matching - Hall's Marriage
+Hamiltonian Cycle
+Edge Graphs / Line Graphs
+Strongly Connected Components
+Dominant Sub-Graph, Vertex Cover, Travelling Salesman - Approx algos
+
+Advance String Algorithms :
+
+Knuth Morris Pratt Algorithm
+Rabin Karp Algorithm
+Tries and Compressed Tries
+Prefix Trees, Suffix Trees, Suffix Automation - Ukkonen Algorithm
+
+Advance Math:
+
+Fast Fourier Tranformation
+Primality Testing
+Computational Geometry - Closest point pair, Voronoi diagram, Convex Hull
+
+General Advance topics :
+
+Iterating through all combination / permutation
+Bit manipulation
+
+
+
+Noel
+Independent game designer and programmer. Created Subterfuge, Casey's Contraptions, Flower Garden. Runner. Cyclist. Nature enthusiast. Magic addict. @noel_llopis.
+
+Published
+January 23, 2005
+in General
+So You Want to Be a Game Programmer?
+I often get email from people looking to get their first job in the game industry asking me for advice. What are companies looking for in candidates for entry-level programming positions? How come it’s so difficult to land a job? I can’t answer for the industry as a whole, but I can certainly tell you what I am looking for when trying to fill an entry-level programmer position.
+
+
+A few weeks ago, Joel wrote an article with advice for college students looking to become programmers. It was good, solid advice overall, but it was a bit too general, and it didn’t apply very well to the games industry. I often get email from people looking to get their first job in the game industry asking me for advice. What are companies looking for in candidates for entry-level programming positions? How come it’s so difficult to land a job? I can’t answer for the industry as a whole, but I can certainly tell you what I am looking for when trying to fill an entry-level programmer position.
+
+Specifically, I’m going to concentrate on the case of someone without any previous industry development experience applying to game companies for the first time, possibly straight out of college. At the end I’ll touch on people switching industries with previous experience in other software industries. If you’re already in the games industry, then you already have a pretty good idea how you got there, and that experience will carry you forward much more easily than someone trying to break in for the first time. Still, you should be able to meet all these requirements in spades for your next job interview, so you might want to read on anyway.
+
+The type of job openings you’ll be looking for are usually referred to as junior programmer, entry-level programmer, associate programmer, or something similar. Sometimes it’ll be listed simply as programmer but they’ll specify that previous experience is not required.
+
+What exactly am I looking for, then, in an entry-level programmer candidate? Here is what I’d like to see, roughly in order of importance.
+
+Enthusiasm.
+
+Maybe this goes without saying, but I figured I would put it as my number one item. If you aren’t extremely enthusiastic about developing games for the first time, you might as well look for something else. In a couple of years you’ll be extremely disappointed and will be thinking of switching industries anyway.
+
+How do you show this enthusiasm of yours? Working on a project of your own is an excellent way of convincing potential employers that you really care about this stuff. Write some small games, participate in some open-source projects, make some mods, do whatever you want, but work on some game-related projects. I would recommend working on several small projects, and then try to work on one larger one to get exposure to several areas and get experience working on a large code base.
+
+Make sure to bring up those projects in your resume and put them on your web page (yes, we do check web pages and google for people before bringing them in for an interview). In a way, they’re the closest thing you have to experience in the industry. Be ready to discuss your project, why you did things in certain ways, ask how other people deal with particular issues, etc.
+
+Always learning.
+
+textbooks You’re about to finish your college education. If you think you’re done learning, think again. You’ve just finished the base that allows you to continue learning. Especially in this always-changing industry, you will always be learning new things: new platforms, new APIs, new languages, new approaches, new styles, new everything. Don’t think for a moment you can learn a couple of things and then stick to them without learning anything new.
+
+It’s great to be confident in your skills, but if I catch a whiff that the candidate is set in his ways and is not interested in learning anything new, it’s “hasta la vista, baby.”
+
+So go out and learn new things. I always like to be reading a technical book on things directly applicable to what I do at work, and maybe some on things that are more off-the-wall. In addition, I recommend reading trade magazines (Game Developer Magazine, Software Development, C/C++ Users Journal, etc), conference journals (GDC, Siggraph, ACM), web sites (Gamasutra, Flipcode, GameDev.net), mailing lists (gd-algorithms, sweng-gamedev, gd-general), and just about anything you can get your hands on. Don’t be afraid to look at open source projects (Nebula Device, Crystal Space), figure out how they do things, and even participate in their development.
+
+The book The Pragmatic Programmer recommends learning one new computer language every year. It might be a bit of overkill, but it’s certainly not a bad idea. Even if you’re not planning on using Smalltalk or Ruby, it can only broaden your skillset and give you new perspectives on things. Learn about garbage collection, dynamic languages, etc. Of course, make sure you have the basics covered and you have a good grasp of C and C++ before you branch into other languages.
+
+Plays games.
+
+Doh! If you’re going to be developing games, you better play games on a regular basis. You don’t have to be a hardcore player, but you should enjoy playing some games. Be ready to discuss your tastes in games, what you’re played recently, why you liked them, etc. It’s not like you’re going to be designing the games (after all, you’re applying for a programming position), but it’s good to have an idea of what you’re aiming for when you’re creating a game. Also, the more you enjoy playing games, the more of a reason you have to actually want to work on them.
+
+In my time in the industry, I’ve only known one programmer who didn’t play any games (and he was extremely talented to boot), but he was certainly the exception to the rule. If you don’t like games, you better have a really good reason as you why you want to get in this business.
+
+Skills.
+
+Ah, yes. It finally had to come up. As an entry-level programmer, you’re expected to learn a lot on the job, but you need certain skills to be useful and productive from the very beginning. Hobbyist game programmers obsess about DirectX and OpenGL. That’s fine, but don’t worry too much about it. You’re not going to see a single line of those APIs unless you’re hired as a graphics specialist (unlikely for a junior-level position). The specific skills will depend on the exact job and company, but these are pretty universal given what typical junior programmers get to work on.
+
+Fluent in C++. Most game development (for PCs and game consoles) these days is done in C++, so you’d better be comfortable with the language. Knowing the syntax and compiling “Hello world” isn’t good enough. A class in college isn’t going to cut it either. The ideal candidate will have at least read Effective C++ and will have used C++ in some significant projects (either your own projects, or in some term projects at school). You should be able to discuss the order in which destructors are called for classes with inheritance, when you need to provide a copy constructor, or what const-correctness is and why is it a good idea. If not, hit the books right away.
+Basic 3D linear algebra. As an entry-level programmer, you’ll most likely work extensively on high-level game code at first. To do things effectively, you’ll need a good understanding of the fundamentals of 3D linear algebra. Make sure you know your dot and cross products, how to calculate them, but, most importantly, what they represent and when you should use them. You should be comfortable with relative coordinate systems, and matrices as transforms (I don’t care if you know the formula for a rotation matrix, just that you know how to use it). Calculating if an object in the world is within a certain distance from the player, and within a certain angle of its aiming direction, should be close to second nature. Review your linear algebra books from college or check out Mathematics for 3D Game Programming and Computer Graphics
+Software engineering. This is not a requirement for total entry-level positions, but it’s certainly a nice bonus. Unfortunately it’s not often emphasized (or even taught) in many schools, but being familiar with good software engineering practices is very important. Learn all you can about good object-oriented design, design patterns, encapsulation, unit testing, physical insulation, etc. There’s more to programming than knowing a language or API. This is difficult for people straight out of college, but it’s a huge bonus when you have it. Internships could help with this, but they’re not nearly as crucial for me as Joel says. I’d rather see an impressive set of home projects than a couple of summers working at IBM or Sun (on one hand I see a guy with lots of internal drive, and another one that needs to be told what to do and needs guidance). Having both would be awesome.
+Tools. I certainly don’t expect new programmers to be familiar with the exact tools we happen to use. However, the ideal candidate should be familiar with version control, should know how to use a debugger, etc.
+Ability to get things done.
+
+As an entry-level programmer, you’re going to be thrown in the water and you’re going to have to figure out a lot of things by yourself. Sure, you’ll hopefully get some supervision, and people will be able to answer a lot of your questions and work with you. But you’ll be expected to tackle something, learn about it, and get it done.
+
+Here’s one that I completely agree with Joel: Make sure you get a degree, and do the best job you can with it. Sure, a degree doesn’t measure many things, but getting a good GPA means that you were able to stick with something for four years, even when things got tough or when you had to do things that you didn’t feel like working on. Working in games is not all fun (even if it’s all games), so making sure that people are not easily discouraged and can get things done is very important.
+
+Another way of showing that is, as I said earlier, by working on projects on your spare time. That shows someone who went to the effort of creating something while learning something new. It doesn’t have to be a super-polished, finished game, but it should be more than a couple of classes that compile without errors and print “OK”.
+
+Well-rounded education.
+
+Knowing things outside of games is a good thing (knowing the detailed history of the Star Wars universe doesn’t really count). Taking and doing well in classes in a variety of topics in college is a good start. You may think that your South American archaeology class will never be of any relevance, but you’ll be surprised how things you learn there will come in useful in the most unexpected ways.
+
+Make sure you do something beyond games. Take up a hobby of something totally unrelated. Some of the best candidates are art enthusiasts, practice sports seriously, are into oriental philosophy, or play the viola. I always ask about people’s hobbies during an interview. Usually the weaker candidates won’t have any hobbies or their only hobby is playing computer games.
+
+I really think that if you’re going to dedicate yourself professionally to games, you need to have some interests in other areas. Also, being familiar with wildly different subjects allows people to approach problems from a completely different angle and come up with very creative solutions. Don’t discount the importance of a well-rounded education.
+
+One thing you should not worry about at this point is specialization. If you have one in mind, that’s fine, and share it with your employer so you can plan a way to get there. But keep in mind that at first, breadth is more important than depth. It’ll be much better for you to learn as much as possible about game development in general. The brightest graphics guru who only knows about graphics will not be half as effective as he could be if he had broader experience developing games.
+
+However, one specialty you can jump straight into is tools. Learn the APIs. Write some tools. Create an editor for an existing game. However, don’t think of tools as a temporary thing to pay your dues. Tools are an extremely important part of game development, now more than ever, so you can make a full career as a tools programmer.
+
+How about people from other software industries with some years of experience? There’s a certain bias against them in the industry. On one hand, they’re not considered to have the right “experience,” and then they ask for too much money because they have several years in development already. You can bring a lot of experience, and a lot of it will be different. That’s very valuable, but the company needs to see that. Play that angle in your resume/interview. Explain how your skills can be invaluable to the company (and that also shows you’re familiar with the development process). Doing a game-related project on the side can go a long way to convince a company that your heart is in the right place.
+
+If you only take one thing away from this article, this should be it: Always be looking to learn new things. Always read new books. Always try new things. Always be willing to listen to and try a different approach. Someone like that will quickly gain a huge amount of experience and become an invaluable member of the team, but the converse (someone with lots of experience not willing to learn anything new) is nearly useless in a rapidly-changing field.
+
+Having said all that, I’m afraid we’re not currently looking for any entry-level positions at Sammy Studios. We might be hiring again this summer, so check back then. In the meanwhile, hit the books and sharpen up those skills.
+
+
+Independent Publisher empowered by WordPress
